@@ -135,7 +135,7 @@ class HomePageHelpers extends ChangeNotifier {
                                       style: TextStyle(
                                           color: Colors.grey.shade600,
                                           fontWeight: FontWeight.w600,
-                                          fontSize: 16),
+                                          fontSize: 12),
                                     ),
                                     Container(
                                       width: width / 3.4,
@@ -145,7 +145,7 @@ class HomePageHelpers extends ChangeNotifier {
                                         style: TextStyle(
                                             color: Colors.black,
                                             // fontWeight: FontWeight.w600,
-                                            fontSize: 16),
+                                            fontSize: 12),
                                       ),
                                     )
                                   ],
@@ -161,7 +161,7 @@ class HomePageHelpers extends ChangeNotifier {
                                       style: TextStyle(
                                           color: Colors.grey.shade600,
                                           fontWeight: FontWeight.w600,
-                                          fontSize: 16),
+                                          fontSize: 12),
                                     ),
                                     Container(
                                       width: width / 3.4,
@@ -172,7 +172,7 @@ class HomePageHelpers extends ChangeNotifier {
                                         style: TextStyle(
                                             color: Colors.black,
                                             // fontWeight: FontWeight.w600,
-                                            fontSize: 16),
+                                            fontSize: 12),
                                       ),
                                     )
                                   ],
@@ -187,7 +187,7 @@ class HomePageHelpers extends ChangeNotifier {
                                       style: TextStyle(
                                           color: Colors.grey.shade600,
                                           fontWeight: FontWeight.w600,
-                                          fontSize: 16),
+                                          fontSize: 12),
                                     ),
                                     Container(
                                       width: width / 3.4,
@@ -198,7 +198,7 @@ class HomePageHelpers extends ChangeNotifier {
                                         style: TextStyle(
                                             color: Colors.black,
                                             // fontWeight: FontWeight.w600,
-                                            fontSize: 16),
+                                            fontSize: 12),
                                       ),
                                     )
                                   ],
@@ -213,7 +213,7 @@ class HomePageHelpers extends ChangeNotifier {
                                       style: TextStyle(
                                           color: Colors.grey.shade600,
                                           fontWeight: FontWeight.w600,
-                                          fontSize: 16),
+                                          fontSize: 12),
                                     ),
                                   ],
                                 ),
@@ -227,7 +227,7 @@ class HomePageHelpers extends ChangeNotifier {
                                       style: TextStyle(
                                           color: Colors.blue.shade600,
                                           fontWeight: FontWeight.w600,
-                                          fontSize: 12),
+                                          fontSize: 10),
                                     ),
                                   ],
                                 ),
